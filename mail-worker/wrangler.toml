@@ -33,4 +33,4 @@ crons = ["0 16 * * *"]
 orm_log = false
 domain = ["1993123.xyz", "19940730.xyz", "aimiliya.us.ci", "claudexui.cc.cd", "closeao.cc.cd", "keno.us.ci", "mywebhh.cc.cd", "mywebhh.ccwu.cc", "nexttime.ccwu.cc", "ouuuede.ccwu.cc", "qmax.ccwu.cc", "seeedti.cc.cd", "sophie.us.ci", "vocard.cc.cd", "workx.ccwu.cc"]
 admin = "admin@1993123.xyz"
-jwt_secret = "Pae82NHv8^2q_cloudmail_2026"
+jwt_secret = "Pae82NHv82q_cloudmail_2026"
